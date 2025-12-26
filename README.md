@@ -1,0 +1,1 @@
+Windows işletim sistemlerinde USB bellekler üzerinden bulaşan kısayol virüslerini tespit eden; zararlı servisleri, süreçleri, kayıt defteri girdilerini ve sistem dosyalarını otomatik olarak temizleyen kapsamlı bir güvenlik scripti geliştirilmiştir. Temizlik sonrası Windows Defender güncellemesi ve özel tarama başlatılmaktadır.
